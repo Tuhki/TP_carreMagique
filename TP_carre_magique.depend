@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484297800 source:c:\users\grushkov\desktop\ludus\2è année\algo\tp_carre_magique\tp_carre_magique\main.c
+	<stdio.h>
+	<stdlib.h>
+
